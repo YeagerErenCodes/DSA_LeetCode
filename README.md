@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eren-codes48/DSA_LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
