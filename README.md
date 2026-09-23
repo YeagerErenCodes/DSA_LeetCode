@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eren-codes48/DSA_LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eren-codes48/DSA_LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
