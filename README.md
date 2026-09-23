@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/eren-codes48/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
